@@ -1,0 +1,3 @@
+[submodule "play2win"]
+	path = play2win
+	url = https://github.com/DevArthurBarboza/play2win
